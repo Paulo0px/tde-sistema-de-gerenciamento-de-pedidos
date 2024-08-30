@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\power\\OneDrive\\Área de Trabalho\\ADS\\LABORATÓRIO DE PROGRAMAÇÃO\\AULA 3 - 29.08\\tde\\tde\\tde.csproj": {}
+    "C:\\Users\\power\\OneDrive\\Área de Trabalho\\tde-sistema-de-gerenciamento-de-pedidos\\tde\\tde.csproj": {}
   },
   "projects": {
-    "C:\\Users\\power\\OneDrive\\Área de Trabalho\\ADS\\LABORATÓRIO DE PROGRAMAÇÃO\\AULA 3 - 29.08\\tde\\tde\\tde.csproj": {
+    "C:\\Users\\power\\OneDrive\\Área de Trabalho\\tde-sistema-de-gerenciamento-de-pedidos\\tde\\tde.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\power\\OneDrive\\Área de Trabalho\\ADS\\LABORATÓRIO DE PROGRAMAÇÃO\\AULA 3 - 29.08\\tde\\tde\\tde.csproj",
+        "projectUniqueName": "C:\\Users\\power\\OneDrive\\Área de Trabalho\\tde-sistema-de-gerenciamento-de-pedidos\\tde\\tde.csproj",
         "projectName": "tde",
-        "projectPath": "C:\\Users\\power\\OneDrive\\Área de Trabalho\\ADS\\LABORATÓRIO DE PROGRAMAÇÃO\\AULA 3 - 29.08\\tde\\tde\\tde.csproj",
+        "projectPath": "C:\\Users\\power\\OneDrive\\Área de Trabalho\\tde-sistema-de-gerenciamento-de-pedidos\\tde\\tde.csproj",
         "packagesPath": "C:\\Users\\power\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\power\\OneDrive\\Área de Trabalho\\ADS\\LABORATÓRIO DE PROGRAMAÇÃO\\AULA 3 - 29.08\\tde\\tde\\obj\\",
+        "outputPath": "C:\\Users\\power\\OneDrive\\Área de Trabalho\\tde-sistema-de-gerenciamento-de-pedidos\\tde\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\power\\AppData\\Roaming\\NuGet\\NuGet.Config"
